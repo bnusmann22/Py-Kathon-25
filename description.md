@@ -7,6 +7,9 @@ Maiden BUK-FOC {Level 100} Python Hackathon: **Py-Kathon 1.0**
 1. Code Re arrangement {
    area of a circle
    }
+
+   <br/>
+
 2. Debugging sessions{
 
 - Voter Validity(
@@ -19,7 +22,11 @@ Maiden BUK-FOC {Level 100} Python Hackathon: **Py-Kathon 1.0**
 
 - Exams-Grading(
 
-)
+1. input before int (Line 2)
+2. The `Return ` used
+3. The "C" grade isnt Working (Line 14)
+4. The use of "and" instead of "or" (Line 4)
+   )
 
 - Multiplication Tables(
 
